@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.laihao.ru</id>
     <title>Lai Haoru</title>
-    <updated>2022-03-30T04:58:36.466Z</updated>
+    <updated>2022-03-30T05:00:04.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://www.laihao.ru"/>
     <link rel="self" href="http://www.laihao.ru/atom.xml"/>
     <logo>http://www.laihao.ru/images/avatar.png</logo>
     <icon>http://www.laihao.ru/favicon.ico</icon>
     <rights>All rights reserved 2022, Lai Haoru</rights>
+    <entry>
+        <title type="html"><![CDATA[珀瑟敏斯特沙滩]]></title>
+        <id>http://www.laihao.ru/post/po-se-min-si-te-sha-tan/</id>
+        <link href="http://www.laihao.ru/post/po-se-min-si-te-sha-tan/">
+        </link>
+        <updated>2022-03-30T04:59:26.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://www.laihao.ru/post-images/1648616382844.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石原里美]]></title>
         <id>http://www.laihao.ru/post/shi-yuan-li-mei/</id>
